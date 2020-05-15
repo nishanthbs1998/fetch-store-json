@@ -1,5 +1,5 @@
 # fetch-store-json
-[![npm v1.1.3](https://img.shields.io/badge/npm-v1.1.3-blue)](https://github.com/nishanthbs1998/fetch-store-json)
+[![npm v1.1.5](https://img.shields.io/badge/npm-v1.1.5-blue)](https://github.com/nishanthbs1998/fetch-store-json)
 
 This package lets you fetch data from an API and store it into a file in JSON format
 
