@@ -4,9 +4,15 @@
 This package lets you fetch data from an API and store it into a file in JSON format
 
 ## Installing
+Using npm:
 ```
 npm install fetch-store-json
 ```
+Using yarn:
+```
+yarn add fetch-store-json
+```
+
 ## Inputs
 You need to provide 7 inputs in this order:
 ```
