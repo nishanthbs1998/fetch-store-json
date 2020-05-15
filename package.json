@@ -40,8 +40,6 @@
   "devDependencies": {
     "jest": "^26.0.1",
     "supertest": "^4.0.2"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
   }
+  
 }
