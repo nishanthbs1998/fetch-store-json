@@ -4,7 +4,7 @@ module.exports=function(url,client_id,client_secret,auth,page_start,page_end,pag
 let doc = { table: []};
 
 async function run() {
-    console.log("Fetching and storing data. Please wait...")
+    console.log("Fetching and storing data. This may take a while. Please wait...")
     for (let i = page_start; i <= page_end; i++) {
 
         let data = await fetch(url+'?'+'client_id='+client_id+'&client_secret='+client_secret+'&page='+i+'&page_size='+page_size,{
